@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;  
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(/media/fondoclaro.jpg);
+}
+
+h1{
+    font-size: 6rem;   
+    letter-spacing: 1rem;
+    margin-bottom: 1rem;
+}
+
+h2{
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+}
+
+.titulos{
+    text-align: center;
+    margin-top: 20%;
+}
